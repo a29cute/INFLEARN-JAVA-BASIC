@@ -1,17 +1,17 @@
 package poly.car0;
 
-public class K3Car {
+public class ModelK3Car {
 
     public void startEngine(){
-        System.out.println("K3Car.startEngine");
+        System.out.println("ModelK3Car.startEngine");
     }
 
     public void offEngine(){
-        System.out.println("K3Car.offEngine");
+        System.out.println("ModelK3Car.offEngine");
     }
 
     public void pressAccelEngine(){
-        System.out.println("K3Car.pressAccelEngine");
+        System.out.println("ModelK3Car.pressAccelEngine");
     }
 
 }
